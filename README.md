@@ -1,3 +1,5 @@
+THIS IS UPTO DATE AD OF 6/11/21
+
 In the config.json 
 {"URL_SERVER":"http://ip:port", replace ip with the server ip and port with server port
     "LOG_LEVEL":"2",
